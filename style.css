@@ -1,0 +1,73 @@
+h1 {
+  padding: 3em;
+  text-align: center;
+}
+
+header {
+  background-image: url(./imgs/header.jpg);
+  padding: 13em;
+}
+
+.header-navigation {
+  background-color: #404a52;
+  opacity: 80%;
+  padding: 1em 8em;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 2em;
+  overflow: hidden;
+  float: right;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 0 1.5em;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.btn-home {
+  color: #4bcaff;
+  border: 2px solid black;
+  border-color: #4bcaff;
+}
+
+.blueasy {
+  position: absolute;
+  font-weight: 700;
+  font-size: 1.825rem;
+  text-decoration: none;
+  color: #FFFFFF;
+  margin: 0.5em;
+}
+
+.blueasy span {
+  color: #4bcaff;
+}
+
+.services {
+  background-color: #4bcaff;
+  color: #FFFFFF;
+  padding: 4em;
+}
+
+h3 {
+  margin-top: 1em;
+}
+
+.margin {
+  margin-top: 1em;
+}
+
+.background-title {
+  margin: 5em 0;
+}
+/*# sourceMappingURL=style.css.map */
